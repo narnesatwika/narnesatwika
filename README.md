@@ -47,7 +47,7 @@ https://github.com/narnesatwika/End-to-End-Sales-Data-Analysis
 
 ## Contact
 
-- LinkedIn:linkedin.com/in/satwikanarne
+- LinkedIn:https://www.linkedin.com/in/satwikanarne/
 - Email:narnesatwika1234@gmail.com
 
 
