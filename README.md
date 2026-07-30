@@ -50,11 +50,11 @@ https://github.com/yourusername/End-to-End-Sales-Data-Analysis
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Your professional email
+- LinkedIn:https://www.linkedin.com/in/satwikanarne/
+- Email: narnesatwika1234@gmail.com
 
 ---
 [![](https://komarev.com/ghpvc/?username=narnesatwika&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
